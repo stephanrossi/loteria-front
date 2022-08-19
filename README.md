@@ -24,13 +24,13 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/stephanrossi/loteria-front?color=56BEB8" /> -->
 </p>
 
-<!-- Status -->
+Status
 
-<!-- <h4 align="center"> 
+<h4 align="center"> 
 	🚧  Loteria Front 🚀 Under construction...  🚧
 </h4> 
 
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -46,23 +46,22 @@
 
 ## :dart: About ##
 
-Describe your project
+Projeto para fins de estudo de front-end, de uma API também construída por mim em Node e ExpressJs
 
-## :sparkles: Features ##
+<!-- ## :sparkles: Features ##
 
 :heavy_check_mark: Feature 1;\
 :heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Feature 3; -->
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/)
+- [Axios](https://axios-http.com/)
+- [Next](https://nextjs.org/)
+- [TypeScript](https://typescriptlang.org/)
 
 ## :white_check_mark: Requirements ##
 
@@ -91,7 +90,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/stephanrossi" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/stephanrossi" target="_blank">Stephan Rossi</a>
 
 &#xa0;
 
